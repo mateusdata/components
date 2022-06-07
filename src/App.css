@@ -1,0 +1,11 @@
+body{
+  margin: 0; 
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(246, 246, 250);
+}
